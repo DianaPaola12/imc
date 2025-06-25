@@ -1,0 +1,44 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Chapulin Colorado",
+      "age" : 35,
+      "secretIdentity" : "Roberto Gómez Bolaños",
+      "powers" : [
+        "Antenitas de vinil para detectar el peligro",
+        "Chipote chillón",
+        "Gran corazónt",
+        "Pastillas de chiquitolina",
+        "Increíble agilidad en situaciones absurdas"
+      ]
+    },
+    {
+      "name" : "Kalimán",
+      "age" : 40,
+      "secretIdentity" : "Kalimán",
+      "powers" : [
+        "Control total de la mente y el cuerpo",
+        "Telepatía y telequinesis",
+        "Artes marciales y sabiduría oriental",
+        "Hipnosis",
+        "Estratega brillante y defensor de la justicia"
+      ]
+    },
+    {
+      "name" : "El Santo",
+      "age" : 35,
+      "secretIdentity" : "Santos",
+      "powers" : [
+        "Resistencia física fuera de lo normal",
+        "Capacidad para combatir zombis, luchadores y monstruos",
+        "Espíritu de lucha ",
+        "Sarcasmo y humor como arma"
+      ]
+    }
+  ]
+}
